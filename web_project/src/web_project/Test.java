@@ -4,6 +4,8 @@ public class Test {
 	
 	public static void main(String[] args) {
 		System.out.println("this is dummy project");
+		System.out.println(" cahnges commit");
+		
 	}
 
 }
